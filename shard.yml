@@ -11,6 +11,6 @@ dependencies:
   openssl_ext:
     github: spider-gazelle/openssl_ext
 
-crystal: '>= 1.22.0-dev'
+crystal: '>= 1.21.0'
 
 license: MIT
